@@ -1,5 +1,4 @@
-# Mapty
-Map your workout⛰ (Just a fun website, **No information stored**)
+# Map your workout⛰ (Just a fun website, **No information stored**)
 
 - Allow loation accsess to your broswer to see your alomost exact location
 - Click anywhere on the map to fill set workout target(form with different parameters like 🏃‍♂️Running or 🚴‍♀️cycling, ⏱duration, 🦶🏼distance etc)
